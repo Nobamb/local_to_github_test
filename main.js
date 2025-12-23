@@ -7,3 +7,4 @@
 // 브랜치명 변경(local에서 github로 보낼 땐 브랜치명 때문에 충돌날 수 있기에)
 // 4. git push -u origin main
 // origin(목적지(레포지토리)), main(브랜치), -u 기본값 지정
+// -u는 필수는 아니지만, git push만 해도 레포지토리로 보낼 수 있게됨
